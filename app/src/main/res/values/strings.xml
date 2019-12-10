@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CityExplorer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_add_trip_header">All Trips</string>
+    <string name="lbl_add_trip">add trip</string>
+    <string name="lbl_trip_name">Trip Name</string>
+    <string name="lbl_city_search_text">Search for a location</string>
+    <string name="lbl_btn_sarch">search</string>
+</resources>
